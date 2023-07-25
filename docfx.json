@@ -1,0 +1,14 @@
+{
+    "pdf": {
+        "content": [
+            {
+                "files": [
+                    "pdf/toc.yml"
+                ]
+            }
+        ],
+        "wkhtmltopdf": {
+            "additionalArguments": "--enable-local-file-access"
+        }
+    }
+}
